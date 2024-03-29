@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Csapolt Soproni",
+        "unit": "dl",
+        "price": 120,
+        "stock": 299
+    },
+    {
+        "name": "Soproni IPA",
+        "unit": "doboz",
+        "price": 700,
+        "stock": 12
+    },
+    {
+        "name": "Soproni Bivaly",
+        "unit": "\u00fcveg",
+        "price": 750,
+        "stock": 5
+    }
+]
